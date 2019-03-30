@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Ejemplo texto en itálica*
+_Otro ejemplo de itálica
+
+**Ejemplo negrita**
+__Otro ejemplo de negrita__
+
+_También **puedes** combinarlas_
