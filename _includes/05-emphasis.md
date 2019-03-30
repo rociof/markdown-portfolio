@@ -4,4 +4,4 @@ _Otro ejemplo de itálica
 **Ejemplo negrita**
 __Otro ejemplo de negrita__
 
-_También **puedes** combinarlas_
+_También **puedes** combinar ambas_
